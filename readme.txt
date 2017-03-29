@@ -1,1 +1,0 @@
-"hks_quad_descriptive.r" is the main R program 
